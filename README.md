@@ -1,1 +1,2 @@
-# Student-Grades-Assignment-2021
+# student-grades-asgn-start
+Start code for Student Grades Assignment
